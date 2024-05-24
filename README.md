@@ -21,7 +21,7 @@
 
 <br/>
 
-### 🚀 Atualmente estou aprendendo:</summary>
+### 🚀 Atualmente estou estudando:</summary>
 
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" title="Kotlin" alt="Kotlin" /></code> &nbsp;
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" title="Spring" alt="Spring" /></code>
