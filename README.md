@@ -36,3 +36,16 @@
 ### ⚡ Estatísticas do Github</b></summary>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoelps&layout=compact)
+
+# Respositórios Populares
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manoelps&repo=Website-Aluguel-de-Carros-NextJS)](https://github.com/manoelps/Website-Aluguel-de-Carros-NextJS )
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manoelps&repo=JWT-com-nodejs)](https://github.com/manoelps/JWT-com-nodejs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manoelps&repo=JWT-com-nodejs-e-MySQL )](https://github.com/manoelps/JWT-com-nodejs-e-MySQL )
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manoelps&repo=Brain-Agriculture-AdonisJS)](https://github.com/manoelps/Brain-Agriculture-AdonisJS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manoelps&repo=Jogo-Organizar-Itens-NextJS)](https://github.com/manoelps/Jogo-Organizar-Itens-NextJS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manoelps&repo=Jogo-da-Memoria-NextJS)](https://github.com/manoelps/Jogo-da-Memoria-NextJS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manoelps&repo=Jogo-da-Forca-NextJS)](https://github.com/manoelps/Jogo-da-Forca-NextJS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manoelps&repo=Jogo-Pedra-Papel-Tesoura-NextJS)](https://github.com/manoelps/Jogo-Pedra-Papel-Tesoura-NextJS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manoelps&repo=Jogo-da-Velha-NextJS)](https://github.com/manoelps/Jogo-da-Velha-NextJS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manoelps&repo=desafio-front-end-reactjs)](https://github.com/manoelps/desafio-front-end-reactjs)
