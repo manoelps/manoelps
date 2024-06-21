@@ -54,3 +54,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manoelps&repo=Jogo-da-Velha-NextJS)](https://github.com/manoelps/Jogo-da-Velha-NextJS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manoelps&repo=desafio-front-end-reactjs)](https://github.com/manoelps/desafio-front-end-reactjs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manoelps&repo=Jogo-Das-Pecas-NextJS)](https://github.com/manoelps/Jogo-Das-Pecas-NextJS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manoelps&repo=flutter_diario_academia_app_android)](https://github.com/manoelps/flutter_diario_academia_app_android)
