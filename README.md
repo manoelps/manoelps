@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-+ Sou Desenvolvedor de Software Full-stack e atualmente trabalho como Desenvolvedor Frontend na [Tinnova.](http://www.tinnova.com.br/)
++ Sou Desenvolvedor de Software Full-stack e atualmente trabalho como Desenvolvedor Frontend na empresa multinacional [Tinnova.](http://www.tinnova.com.br/)
 + Trabalho diariamente com **JavaScript**, **Typescript**, **React**, **Next.js**, **Angular**, **Node.js**, **PostgreSQL**
 + Sou muito proficiente na construção de interfaces de usuário frontend usando *Next.js/React.js/Angular* e *Typescript*.
 
@@ -27,7 +27,7 @@
 
 ### 🚀 Atualmente estou estudando:</summary>
 
-<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" title="Kotlin" alt="Kotlin" /></code> &nbsp;
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" title="Java" alt="Java" /></code> &nbsp;
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" title="Spring" alt="Spring" /></code>
 </p>
 
