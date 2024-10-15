@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-+ Sou Desenvolvedor de Software Full-stack e atualmente trabalho como Desenvolvedor Frontend na empresa multinacional [Tinnova.](http://www.tinnova.com.br/)
-+ Trabalho diariamente com **JavaScript**, **Typescript**, **React**, **Next.js**, **Angular**, **Node.js**, **PostgreSQL**
-+ Sou muito proficiente na construção de interfaces de usuário frontend usando *Next.js/React.js/Angular* e *Typescript*.
++ Sou Desenvolvedor de Software Full-stack, atualmente atuando como Desenvolvedor Frontend na multinacional [Tinnova.](http://www.tinnova.com.br/)
++ Tenho vasta experiência com **JavaScript**, **TypeScript**, **React**, **Next.js**, **Angular** e **Node.js**. Trabalho diariamente com essas tecnologias, criando soluções eficientes e escaláveis.
++ Minhas principais habilidades incluem a criação de interfaces de usuário otimizadas e responsivas utilizando Next.js, React.js e Angular, sempre com foco em desempenho e boas práticas de desenvolvimento.
 
 ## Linguagens e Ferramentas:
 
