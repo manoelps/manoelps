@@ -39,11 +39,11 @@
 
 ### ⚡ Estatísticas do Github</b></summary>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoelps&layout=compact)
+![Top Langs](https://github-readme-stats-git-masterorg-readme-stats-team.vercel.app/api/top-langs/?username=manoelps&layout=compact)
 
 # Respositórios Populares
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manoelps&repo=Website-Aluguel-de-Carros-NextJS)](https://github.com/manoelps/Website-Aluguel-de-Carros-NextJS )
+[![Card](https://github-readme-stats-git-masterorg-readme-stats-team.vercel.app/api/pin/?username=manoelps&repo=Website-Aluguel-de-Carros-NextJS)](https://github.com/manoelps/Website-Aluguel-de-Carros-NextJS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manoelps&repo=JWT-com-nodejs)](https://github.com/manoelps/JWT-com-nodejs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manoelps&repo=JWT-com-nodejs-e-MySQL )](https://github.com/manoelps/JWT-com-nodejs-e-MySQL )
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manoelps&repo=Brain-Agriculture-AdonisJS)](https://github.com/manoelps/Brain-Agriculture-AdonisJS)
